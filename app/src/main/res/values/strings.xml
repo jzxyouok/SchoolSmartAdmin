@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SchoolSmartAdmin</string>
+    <string-array name="ctype">
+        <item>超市</item>
+        <item>外卖</item>
+        <item>早餐</item>
+        <item>团购</item>
+
+    </string-array>
+</resources>

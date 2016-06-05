@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <resources>
+        <color name="colorPrimary">#3F51B5</color>
+        <color name="colorPrimaryDark">#303F9F</color>
+        <color name="colorAccent">#FF4081</color>
+        <color name="bt_no_pressed_color">#191970</color>
+        <color name="bt_pressed_color">#12B7F5</color>
+        <color name="white">#FFFFFF</color>
+        <color name="black">#000000</color>
+        <color name="gray">#D1D1D1</color>
+        <color name="menu_nomal">#717071</color>
+        <color name="menu_press">#45B22C</color>
+        <color name="mine_top_start_color">#71C45E</color>
+        <color name="mine_top_end_color">#D3F9B1</color>
+        <color name="main_back">#EEEEEE</color>
+        <color name="mine_line_color">#4AFFFF</color>
+
+        <color name="red">#46B22D</color>
+        <color name="manager_address_back">#F9F9F9</color>
+        <color name="new_address_main_back">#DEDEDE</color>
+        <color name="new_address_line">#C7C7C7</color>
+        <color name="new_address_text">#858585</color>
+        <color name="green">#46B22D</color>
+        <color name="shop_green">#81C388</color>
+        <color name="default_text_color">#909090</color>
+        <color name="yellow_position_back">#F9F9AB</color>
+        <color name="yellow_position_text_back">#F37F38</color>
+        <color name="select_city_topic">#BFC09D</color>
+        <color name="save_button_back_color">#46B22D</color>
+        <color name="cart_back_color">#545454</color>
+        <color name="shop_info_top_back">#7B6B63</color>
+        <color name="orange">#FB6F08</color>
+        <color name="deep_orange">#FB6FFF</color>
+        <color name="default_back_color">#DCEFFB</color>
+
+    </resources>
+
